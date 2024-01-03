@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Poppins:wght@100;200;300;400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.info {
+    font-family: "Montserrat";
+    font-size: 1.7rem;
+    color: #000;}
+
+#line01 {
+    border-bottom: 2px solid #535353;
+    width: 340px;
+    margin-top: 40px;
+}
+#line02 {
+    border-bottom: 2px solid #535353;
+    width: 290px;
+}
+#line03 {
+    border-bottom: 2px solid #535353;
+    width: 140px;
+}
+#line04 {
+    border-bottom: 2px solid #535353;
+    width: 340px;
+}
+#line05 {
+    border-bottom: 2px solid #535353;
+    width: 300px;
+}
+
+.info-title {
+    font-size: 1.4rem;
+    margin-top: 5px;
+    color: #565656;
+    font-family: "Poppins";
+}
+
+.title {
+    font-family: "Montserrat";
+    border-bottom: 2px solid #333;
+    height: 50px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.item-list {
+    margin-bottom: 5px;
+    color: #494949;
+    font-family: "Poppins";
+}
+
+.smll-info {
+    color: #7b7b7b;
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.item-sec {
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #757575;
+}
+
+.list-info {
+    margin-left: -22px;
+}
+
+#link-info {
+    color: rgb(60, 20, 98);
+}
